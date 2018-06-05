@@ -1,0 +1,5 @@
+---
+applications:
+  - name: nodejsExampleApp
+    random-route: true
+    memory: 256mb
